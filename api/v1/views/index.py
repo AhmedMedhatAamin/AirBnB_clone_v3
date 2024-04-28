@@ -1,5 +1,7 @@
-#!/usr/bin/python3
-
+#!/usr/bin/python3xx
+'''api status'''
+import models
+from models import storage
 from flask import jsonify
 from api.v1.views import app_views
 

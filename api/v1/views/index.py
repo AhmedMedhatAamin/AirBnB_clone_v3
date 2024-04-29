@@ -1,7 +1,5 @@
 #!/usr/bin/python3
 
-import sys
-sys.path.append('/AirBnB_clone_v3')
 import models
 from models import storage
 from models.base_model import BaseModel
